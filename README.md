@@ -24,3 +24,7 @@
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,mongodb,docker,c,cpp,js,ts,react,git,github,postman&perline=7&theme=dark" />
   </a>
 </p>
+
+### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ffb7c5)](https://www.linkedin.com/in/nvelascopinto/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ffb7c5)](nvelascopinto@gmail.com)
