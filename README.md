@@ -25,13 +25,14 @@
   </a>
 </p>
 
-### 📫 Contact Me
+### 📫 Contact me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/nvelascopinto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffb7c5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=ffb7c5" />
   </a>
   &nbsp;
   <a href="mailto:nvelascopinto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ffb7c5?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=ffb7c5" />
   </a>
 </p>
