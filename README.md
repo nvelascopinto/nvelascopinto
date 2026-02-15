@@ -26,9 +26,12 @@
 </p>
 
 ### 📫 Contact Me
-<a href="https://www.linkedin.com/in/nvelascopinto/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="mailto:nvelascopinto@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nvelascopinto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ffb7c5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:nvelascopinto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ffb7c5?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
