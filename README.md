@@ -29,10 +29,14 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nvelascopinto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=ffb7c5" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffb7c5?style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nvelascopinto" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ffb7c5?style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:nvelascopinto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=ffb7c5" />
+    <img src="https://img.shields.io/badge/Gmail-ffb7c5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
