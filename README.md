@@ -13,11 +13,8 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=nvelascopinto&theme=darcula&hide_border=true&background=00000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffb7c5&currStreakLabel=ffb7c5&ring=ffb7c5&fire=ffb7c5&currStreakNum=ffffff" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nvelascopinto&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ffb7c5&text_color=ffffff" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nvelascopinto&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=ffb7c5&text_color=ffffff&icon_color=ffb7c5" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com user=nvelascopinto&theme=darcula&hide_border=true&background=00000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffb7c5&currStreakLabel=ffb7c5&ring=ffb7c5&fire=ffb7c5&currStreakNum=ffffff" />
 </p>
 
 ## 🛠️ My Tech Stack 
