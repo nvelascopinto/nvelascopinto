@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Nicole 👋
 
-<!--
-**nvelascopinto/nvelascopinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 **Information Systems Engineering Student** at **UTN FRBA**
 
-Here are some ideas to get you started:
+- 💻 **Focused on Backend Development** and building scalable architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Diving deep into Web Development** and **Distributed Systems**
+
+- 🏗️ **Academic Projects** involving **Database Design** and **Process Automation**
+
+- 📈 **Academic Progress** of **45.45%** with an **8.5** average
+
+## My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nvelascopinto&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffb7c5&text_color=ffffff&icon_color=ffb7c5" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvelascopinto&layout=compact&hide_border=true&bg_color=00000000&title_color=ffb7c5&text_color=ffffff&langs_count=6" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=nvelascopinto&hide_border=true&background=00000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffb7c5&currStreakLabel=ffb7c5&ring=ffb7c5&fire=ffb7c5&currStreakNum=ffffff" />
+</p>
+
+## My Tech Stack 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,mongodb,docker,c,cpp,js,ts,react,git,github,postman&perline=7&theme=dark" />
+  </a>
+</p>
