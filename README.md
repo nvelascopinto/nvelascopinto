@@ -13,10 +13,11 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvelascopinto&theme=darcula" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=nvelascopinto&theme=darcula&hide_border=true&background=00000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffb7c5&currStreakLabel=ffb7c5&ring=ffb7c5&fire=ffb7c5&currStreakNum=ffffff" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nvelascopinto&theme=darcula&hide_border=true&background=00000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffb7c5&currStreakLabel=ffb7c5&ring=ffb7c5&fire=ffb7c5&currStreakNum=ffffff" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nvelascopinto&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ffb7c5&text_color=ffffff" />
 </p>
 
 ## 🛠️ My Tech Stack 
