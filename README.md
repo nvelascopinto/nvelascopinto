@@ -4,9 +4,7 @@
 
 - 💻 **Focused on Backend Development** and building scalable architectures
 
-- 🚀 **Diving deep into Web Development** and **Distributed Systems**
-
-- 🏗️ **Academic Projects** involving **Database Design** and **Process Automation**
+- 🏗️ **Academic Projects** involving **Full-Stack Development**, **Database Design** and **Process Automation**
 
 - 📈 **Academic Progress** of **45.45%** with an **8.5** average
 
@@ -21,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,mongodb,docker,c,cpp,js,ts,react,git,github,postman&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,mongodb,docker,c,cpp,js,ts,react,haskell,prolog,git,github,postman&perline=8&theme=dark" />
   </a>
 </p>
 
